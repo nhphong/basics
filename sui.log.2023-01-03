@@ -1,2 +1,0 @@
-2023-01-03T04:08:58.573573Z  WARN sui::client_commands: Client/Server api version mismatch, client api version : 0.20.0, server api version : 0.19.0
-2023-01-03T04:08:58.580250Z  INFO sui::client_commands: Source verification succeeded!

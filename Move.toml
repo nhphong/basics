@@ -5,4 +5,4 @@ version = "0.0.1"
 [dependencies]
 
 [addresses]
-basics = "0xe0f94ade1f9ed769b074b8b6ba8015d3fa6fa357"
+basics = "0x8e443b358a1853f9e9d50bc77fd3dfc209adad21"

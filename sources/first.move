@@ -5,3 +5,7 @@
 module NamedAddress::First {
     const FIRST: u8 = 1;
 }
+
+module NamedAddress::FirstTest {
+    const FIRST_TEST: u8 = 10;
+}

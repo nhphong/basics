@@ -2,6 +2,6 @@
 // SPDX-License-Identifier: Apache-2.0
 
 /// An example of a custom object with comments explaining the relevant bits
-module basics::object {
-    
+module NamedAddress::First {
+    const FIRST: u8 = 1;
 }

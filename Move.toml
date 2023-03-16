@@ -5,4 +5,4 @@ version = "0.0.1"
 [dependencies]
 
 [addresses]
-basics = "0x603952d3ee66428b7eef8e0b40b5fc3732fee82f"
+NamedAddress = "0x0"

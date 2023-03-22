@@ -4,6 +4,6 @@ address NamedAddress {
     }
 
     module ThirdTest {
-        const THIRD_TEST: u8 = 30;        
+        
     }
 }
